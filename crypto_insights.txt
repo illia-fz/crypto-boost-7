@@ -1,3 +1,5 @@
 Cryptocurrency operates on decentralized blockchain technology.
 Crypto assets like Bitcoin and Ethereum exemplify digital value.
 Smart contracts enable automated, trustless transactions on platforms like Ethereum.
+Decentralized finance (DeFi) platforms leverage crypto to provide financial services.
+NFTs represent unique digital assets on blockchain networks.
